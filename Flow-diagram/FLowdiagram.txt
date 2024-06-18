@@ -1,0 +1,141 @@
+  		    +---------------------------------------------------------+
+                    |                  User Interface (Streamlit)             |
+                    |                                                         |
+                    | +-----------------------------------------------+       |
+                    | |          File Upload & User Interaction        |       |
+                    | |                                               |       |
+                    | |  +------+    +------+    +----------------+   |       |
+                    | |  | PDF  |    | TXT  |    |   User Input   |   |       |
+                    | |  | File |    | File |    |   (Questions)  |   |       |
+                    | |  +------+    +------+    +----------------+   |       |
+                    | +-----------------------------------------------+       |
+                    +---------------------------------------------------------+
+                                                 |
+                                                 | File Processing
+                                                 |
+                   +---------------------------------------------------------+
+                   |                   Text Processing                      |
+                   |                                                         |
+                   | +---------------------------------------------------+ |
+                   | |           PDF Parsing & Text Extraction            | |
+                   | |                                                   | |
+                   | |    +-----------------------------------------+    | |
+                   | |    |      Concatenation of Text Content       |    | |
+                   | |    +-----------------------------------------+    | |
+                   | +---------------------------------------------------+ |
+                   +---------------------------------------------------------+
+                                                 |
+                                                 | Text Splitting
+                                                 |
+                   +---------------------------------------------------------+
+                   |                   Text Splitting                        |
+                   |                                                         |
+                   | +---------------------------------------------------+ |
+                   | |               Splitting Algorithm                | |
+                   | |                   (Recursive)                    | |
+                   | +---------------------------------------------------+ |
+                   +---------------------------------------------------------+
+                                                 |
+                                                 | Text Embedding
+                                                 |
+                  +----------------------------------------------------------+
+                  |                   Text Embedding                         |
+                  |                                                          |
+                  | +----------------------------------------------------+ |
+                  | |        Google Generative AI Embeddings Model       | |
+                  | |               (Model: "models/embedding-001")      | |
+                  | |                                                    | |
+                  | |  +----------------------------------------------+  | |
+                  | |  |            Embedding Generation              |  | |
+                  | |  +----------------------------------------------+  | |
+                  | +----------------------------------------------------+ |
+                  +----------------------------------------------------------+
+                                                 |
+                                                 | Vector Store Creation
+                                                 |
+              +-------------------------------------------------------------+
+              |                 Vector Store Creation                        |
+              |                                                             |
+              | +-------------------------------------------------------+  |
+              | |              FAISS (Facebook AI Similarity Search)    |  |
+              | |                  - Creation of Vector Store            |  |
+              | |                  - Indexing Text Embeddings            |  |
+              | +-------------------------------------------------------+  |
+              +-------------------------------------------------------------+
+                                                 |
+                                                 | Conversational Chain Initialization
+                                                 |
+        +------------------------------------------------------------------+
+        |              Conversational Chain Initialization                 |
+        |                                                                  |
+        | +------------------------------------------------------------+  |
+        | |                ChatGoogleGenerativeAI                        |  |
+        | |                 (Model: "gemini-pro", Temperature: 0.3)      |  |
+        | |                                                            |  |
+        | |  +------------------------------------------------------+  |  |
+        | |  |                 Model Configuration                   |  |  |
+        | |  |                                                      |  |  |
+        | |  |         Prompt Template & Chain Configuration         |  |  |
+        | |  +------------------------------------------------------+  |  |
+        | +------------------------------------------------------------+  |
+        +------------------------------------------------------------------+
+                                                 |
+                                                 | User Input Processing
+                                                 |
+        +------------------------------------------------------------------+
+        |                      User Input Processing                      |
+        |                                                                  |
+        | +------------------------------------------------------------+  |
+        | |                 FAISS (Similarity Search)                  |  |
+        | |                                                            |  |
+        | |  +------------------------------------------------------+  |  |
+        | |  |               Question-Answering Chain                |  |  |
+        | |  |                                                      |  |  |
+        | |  |            Response Generation & Output                |  |  |
+        | |  +------------------------------------------------------+  |  |
+        | +------------------------------------------------------------+  |
+        +------------------------------------------------------------------+
+                                                 |
+                                                 | Output Display
+                                                 |
+                     +---------------------------------------------------+
+                     |              Output Display                        |
+                     |                                                   |
+                     | +---------------------------------------------+   |
+                     | |          Display of Response Output         |   |
+                     | |                                             |   |
+                     | +---------------------------------------------+   |
+                     +---------------------------------------------------+
+
+
+
+
+
+
+User Interface (Streamlit):
+
+Facilitates file upload and user interactions.
+File Processing:
+
+Parses PDF files and extracts text content.
+Concatenates text content from PDF and TXT files.
+Text Splitting:
+
+Utilizes a recursive algorithm to split text into smaller chunks.
+Text Embedding:
+
+Generates embeddings for text chunks using a Google Generative AI model.
+Vector Store Creation (FAISS):
+
+Creates a vector store from text embeddings for efficient similarity search.
+Conversational Chain Initialization:
+
+Sets up a conversational chain for question answering using a pre-trained generative AI model.
+Configures the model with a prompt template and other settings.
+User Input Processing:
+
+Retrieves relevant documents based on user questions' similarity scores.
+Generates responses to user questions using the conversational chain.
+Output Display:
+
+Displays the generated responses to user questions.

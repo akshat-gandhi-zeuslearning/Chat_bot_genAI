@@ -1,0 +1,322 @@
+<mxfile host="app.diagrams.net" modified="2024-06-11T07:32:49.879Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="cccRklPgmQh2O1Ch6X5K" version="24.5.2" type="device">
+  <diagram name="Page-1" id="zJCNUP0p3i1AfAWGumln">
+    <mxGraphModel dx="2830" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zB3Grk-c7IvwzRDL8q11-1" target="zB3Grk-c7IvwzRDL8q11-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-1" value="&lt;span class=&quot;hljs-keyword&quot;&gt;User&lt;/span&gt; Interface (Streamlit)&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="330" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="zB3Grk-c7IvwzRDL8q11-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="580" as="sourcePoint" />
+            <mxPoint x="375" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zB3Grk-c7IvwzRDL8q11-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.41176470588243" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-6" value="&amp;nbsp;File Upload &lt;span class=&quot;hljs-operator&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;hljs-keyword&quot;&gt;User&lt;/span&gt; Interaction" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="470" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zB3Grk-c7IvwzRDL8q11-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-7" value="TXT Files" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zB3Grk-c7IvwzRDL8q11-9" target="zB3Grk-c7IvwzRDL8q11-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-9" value="PDF Files" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zB3Grk-c7IvwzRDL8q11-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450.090909090909" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-14" value="HTML Parsing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-16" target="zB3Grk-c7IvwzRDL8q11-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-16" value="Extract &amp;lt;summary&amp;gt; and &amp;lt;div&amp;gt; texts &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="220" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-17" value="BeautifulSoup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="445" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-25" target="zB3Grk-c7IvwzRDL8q11-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-25" value="Combined Text from PDFs and TXTs" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-28" value="output1.txt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="455" y="288" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-31" value="(PyPDF2)&lt;br&gt;&amp;nbsp;Extract Text from PDFs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="760" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-32" value="Extract Text from TXTs&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="735" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-33" value="Text Chunking&amp;nbsp;&lt;div&gt;( Split Text into Chunks )&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="375" y="980" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-35" value=" Langchain (RecursiveCharacterTextSplitter)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="205" y="928" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-39" target="zB3Grk-c7IvwzRDL8q11-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-39" value="Text Chunks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-40" target="zB3Grk-c7IvwzRDL8q11-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-40" value="Vector Store Creation&lt;div&gt;(Create Embeddings and Store in FAISS &lt;br/&gt;    --&amp;gt; Save Vector Store Locally )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1260" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-42" value="Langchain (GoogleGenerativeAIEmbeddings, FAISS)&lt;div&gt;&lt;strong&gt;Model Used:&lt;/strong&gt; &lt;code&gt;models/embedding-001&lt;/code&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="465" y="1203" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-43" target="zB3Grk-c7IvwzRDL8q11-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-43" value="User Question&lt;div&gt;([Similarity Search]&amp;nbsp;&lt;/div&gt;&lt;div&gt;--&amp;gt; Retrieve Relevant Documents )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1460" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-45" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&amp;nbsp; Langchain (GoogleGenerativeAIEmbeddings, FAISS)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1400" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zB3Grk-c7IvwzRDL8q11-46" target="zB3Grk-c7IvwzRDL8q11-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-46" value="Relevant Documents&lt;div&gt;&lt;br&gt;(Generate Answer using Context)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="1710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-48" value="&lt;div&gt;ChatGoogleGenerativeAI:&lt;/div&gt;&lt;div&gt;Model: gemini-pro&lt;/div&gt;&lt;div&gt;Installation: Included with langchain_google_genai&lt;/div&gt;&lt;div&gt;Usage: Generates answers based on context and user questions.&lt;/div&gt;&lt;div&gt;load_qa_chain: Loads a question-answering chain.&lt;/div&gt;&lt;div&gt;PromptTemplate: Formats the prompt for the QA chain.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1600" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zB3Grk-c7IvwzRDL8q11-49" value="[Streamlit Interface] &lt;br/&gt;    --&amp;gt; [User Uploads Files]&lt;br/&gt;    --&amp;gt; [User Enters Question]&lt;br/&gt;    --&amp;gt; [Display Answer]" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="1850" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-1" target="0QlMxC_onRyLjHsNwXQV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Part A&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;{HTML Parsing and storing}&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="60" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-2" target="0QlMxC_onRyLjHsNwXQV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;HTML Content Parsing&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="283" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;strong style=&quot;font-size: 15px;&quot;&gt;BeautifulSoup:&lt;/strong&gt; Used for parsing HTML content and extracting text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="200" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-5" target="0QlMxC_onRyLjHsNwXQV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-5" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Element Extraction&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-595" y="440" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-7" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Initialize BeautifulSoup with the provided HTML content.&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-435" y="370" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-8" target="0QlMxC_onRyLjHsNwXQV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Iterate through each &lt;code style=&quot;font-size: 15px;&quot;&gt;&amp;lt;details&amp;gt;&lt;/code&gt; element.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="600" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-10" value="&lt;li style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Find all &lt;code style=&quot;font-size: 15px;&quot;&gt;&amp;lt;details&amp;gt;&lt;/code&gt; elements with the class &lt;code style=&quot;font-size: 15px;&quot;&gt;new-accordion-item&lt;/code&gt;.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="520" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-12" target="0QlMxC_onRyLjHsNwXQV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-12" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Write&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-14" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Extract text from the&amp;nbsp;&lt;code style=&quot;font-size: 15px;&quot;&gt;&amp;lt;summary&amp;gt;&lt;/code&gt;&amp;nbsp;tag with the class&amp;nbsp;&lt;code style=&quot;font-size: 15px;&quot;&gt;new-accordion-item__label archive-faq-label&lt;/code&gt;.&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;Extract text from the&amp;nbsp;&lt;code style=&quot;font-size: 15px;&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt;&amp;nbsp;tag with the class &lt;code style=&quot;font-size: 15px;&quot;&gt;new-accordion-item__content archive-faq-content&lt;/code&gt;.&lt;/li&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="655" width="740" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-16" value="&lt;p style=&quot;font-size: 15px;&quot;&gt;&lt;strong style=&quot;font-size: 15px;&quot;&gt;Output:&lt;/strong&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-18" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px; text-wrap: wrap;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="883" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;A text file (&lt;code&gt;output1.txt&lt;/code&gt;) containing the extracted summaries and content from the HTML.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="960" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-21" value="Write the extracted summaries and content to &lt;code style=&quot;font-size: 15px;&quot;&gt;output1.txt&lt;/code&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-410" y="843" width="420" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-22" target="0QlMxC_onRyLjHsNwXQV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Part B: System Flow for PDF and Text File Processing&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-335" y="1260" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-23" value="Part C: Text&amp;nbsp; Processing&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-320" y="2260" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-24" target="0QlMxC_onRyLjHsNwXQV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-24" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Setup and Initialization&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-342.5" y="1540" width="315" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-26" target="0QlMxC_onRyLjHsNwXQV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-26" value="User Interface (UI) Setup" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-28" target="0QlMxC_onRyLjHsNwXQV-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-28" value="File Upload and Text Extraction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-245" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-30" target="0QlMxC_onRyLjHsNwXQV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-30" value="PDF Text Extraction:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-380" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" target="0QlMxC_onRyLjHsNwXQV-34" source="0QlMxC_onRyLjHsNwXQV-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="1861" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-34" target="0QlMxC_onRyLjHsNwXQV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-34" value="TXT File Extraction" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-140" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-43" target="0QlMxC_onRyLjHsNwXQV-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-43" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Part C: Text&amp;nbsp; Processing&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-520" y="2530" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-44" target="0QlMxC_onRyLjHsNwXQV-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-44" value="Text Chunking:" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-46" target="0QlMxC_onRyLjHsNwXQV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-46" value="Vector Store Creation" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="2890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-48" target="0QlMxC_onRyLjHsNwXQV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-48" value="Store Embeddings in FAISS:" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="3210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-51" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Load Environment Variables:&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Load the Google API key using &lt;code style=&quot;font-size: 15px;&quot;&gt;dotenv&lt;/code&gt;.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 15px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Configure Google Generative AI:&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Configure the API using &lt;/span&gt;&lt;code style=&quot;background-color: initial; font-size: 15px;&quot;&gt;genai.configure(api_key=os.getenv(&quot;GOOGLE_API_KEY&quot;))&lt;/code&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1410" width="660" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-52" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Function: &lt;code style=&quot;font-size: 15px;&quot;&gt;get_pdf_text(pdf_docs)&lt;/code&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="1920" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-53" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;PyPDF2&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Purpose: Extract text from PDF files.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Installation: pip install PyPDF2&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="2075" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-54" value="Output1.txt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1970" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-55" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Read and extract text from uploaded TXT files using &lt;code style=&quot;font-size: 15px;&quot;&gt;Streamlit&lt;/code&gt;&#39;s file uploader.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2105" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-56" value="&lt;ul style=&quot;font-size: 15px;&quot;&gt;&lt;li style=&quot;text-align: left; font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Function: &lt;/span&gt;&lt;code style=&quot;background-color: initial; font-size: 15px;&quot;&gt;get_text_chunks(text)&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="2640" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-57" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;text-align: left; background-color: initial; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Split the extracted text into smaller chunks using&amp;nbsp;&lt;/span&gt;&lt;code style=&quot;background-color: initial; font-size: 15px;&quot;&gt;RecursiveCharacterTextSplitter&lt;/code&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-align: left; background-color: initial; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;from Langchain.&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="2825" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-58" target="0QlMxC_onRyLjHsNwXQV-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-58" value="Generate Embeddings" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-460" y="3060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-61" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Use &lt;code style=&quot;font-size: 15px;&quot;&gt;GoogleGenerativeAIEmbeddings&lt;/code&gt; to create embeddings for each text chunk.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="3150" width="570" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-62" value="Part D : Question Answering System" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="3370" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-64" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Store the generated embeddings in a FAISS vector store and save it locally.&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="3300" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-65" target="0QlMxC_onRyLjHsNwXQV-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-65" value="Part D : Question Answering System" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="3600" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-66" target="0QlMxC_onRyLjHsNwXQV-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-66" value="Load Vector Store" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="3740" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-68" value="Load the saved FAISS vector store with embeddings." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="3678" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-69" target="0QlMxC_onRyLjHsNwXQV-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-69" value="Similarity Search" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="3880" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;align=center;fontSize=15;" edge="1" parent="1" source="0QlMxC_onRyLjHsNwXQV-71" target="0QlMxC_onRyLjHsNwXQV-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-71" value="Generate Answer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="4020" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-73" value="Generate Answer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="4160" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-75" value="&lt;code style=&quot;font-size: 15px;&quot;&gt;ChatGoogleGenerativeAI&lt;/code&gt; with a predefined prompt template to generate an answer from the retrieved documents.&lt;div style=&quot;font-size: 15px;&quot;&gt;hatGoogleGenerativeAI(model=&quot;gemini-pro&quot;)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="4100" width="790" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0QlMxC_onRyLjHsNwXQV-76" value="GoogleGenerativeAIEmbeddings(model=&quot;models/embedding-001&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="2990" width="470" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
